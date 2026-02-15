@@ -1,0 +1,19 @@
+"/Applications/Android Studio.app/Contents/jbr/Contents/Home/bin/java" \
+  --class-path \
+  /Users/rishishahu/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar \
+  com.google.prefab.cli.AppKt \
+  --build-system \
+  cmake \
+  --platform \
+  android \
+  --abi \
+  arm64-v8a \
+  --os-version \
+  30 \
+  --stl \
+  c++_static \
+  --ndk-version \
+  27 \
+  --output \
+  /var/folders/65/2qj1n9xd3578b1_j633fr8_00000gn/T/agp-prefab-staging3915822152863918281/staged-cli-output \
+  /Users/rishishahu/.gradle/caches/8.11.1/transforms/30889c920aa8a2cf0104839e082b13d4/transformed/games-activity-1.2.2/prefab

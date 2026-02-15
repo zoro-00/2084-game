@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.a2048game.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.a2048game.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.a2048game.app-mergeDebugResources-30:/layout/game_over_dialog.xml",
+        "source": "com.example.a2048game.app-main-33:/layout/game_over_dialog.xml"
+    }
+]

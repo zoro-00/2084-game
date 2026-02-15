@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-merged_res-31:/layout_game_over_dialog.xml.flat",
+        "source": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-main-33:/layout/game_over_dialog.xml"
+    },
+    {
+        "merged": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-merged_res-31:/drawable_ic_2048_logo.xml.flat",
+        "source": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-main-33:/drawable/ic_2048_logo.xml"
+    },
+    {
+        "merged": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.a2048game.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.a2048game.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "/Users/rishishahu/.gradle/daemon/8.11.1/com.example.a2048game.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.a2048game.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.a2048game.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

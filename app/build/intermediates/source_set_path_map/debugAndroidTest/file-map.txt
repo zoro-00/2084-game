@@ -1,0 +1,6 @@
+com.example.a2048game.test.app-annotation-experimental-1.3.0-0 /Users/rishishahu/.gradle/caches/8.11.1/transforms/4992abac0ae7f68069453497a17656f3/transformed/annotation-experimental-1.3.0/res
+com.example.a2048game.test.app-core-1.5.0-1 /Users/rishishahu/.gradle/caches/8.11.1/transforms/9b405752acd2b94772397d89a278f20c/transformed/core-1.5.0/res
+com.example.a2048game.test.app-androidTest-2 /Users/rishishahu/AndroidStudioProjects/2048game copy/app/build/generated/res/resValues/androidTest/debug
+com.example.a2048game.test.app-mergeDebugAndroidTestResources-3 /Users/rishishahu/AndroidStudioProjects/2048game copy/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.a2048game.test.app-mergeDebugAndroidTestResources-4 /Users/rishishahu/AndroidStudioProjects/2048game copy/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.a2048game.test.app-merged_res-5 /Users/rishishahu/AndroidStudioProjects/2048game copy/app/build/intermediates/merged_res/debugAndroidTest
